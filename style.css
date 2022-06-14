@@ -22,7 +22,7 @@ html, body
 
 .contents
 {
-    height : 62%
+    height : 62%;
     width: 100%;
     background-color: white;
     display: flex;
@@ -113,7 +113,7 @@ html, body
 /* -------------- */
 .kakaomap
 {
-    height: 38%
+    height: 38%;
     width: 100%;
     background-color: teal;
     display: flex;
