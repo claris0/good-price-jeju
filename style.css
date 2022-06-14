@@ -63,7 +63,7 @@ html, body
 }
 .contentsList
 {
-    height: 95%
+    height: 95%;
     width: 90%;
     transform: translateX(-120%);
     transition: all 0.5s ease-in-out;
