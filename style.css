@@ -40,16 +40,16 @@ html, body
 #sortRegionBox
 {
     height: 80%;
-    width: 10%;
+    width: 12%;
 }
 #sortCategoryBox
 {
     height: 80%;
-    width: 10%;
+    width: 12%;
 }
 .searchBar
 {
-    width: 53%;
+    width: 50%;
     height: 80%;
 }
 .searchBtn
