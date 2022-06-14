@@ -40,30 +40,29 @@ html, body
 #sortRegionBox
 {
     height: 80%;
-    width: 67px;
+    width: 9%;
 }
 #sortCategoryBox
 {
-    height: 80%;
+    height: 9%%;
     width: 60px;
 }
 .searchBar
 {
-    width: 200px;
+    width: 45%;
     height: 80%;
 }
 .searchBtn
 {
     cursor: pointer;
-    width: 10%;
+    width: auto;
     height: 80%;
-    
     background-color: white;
 }
 .searchBtn img {
-    width: 40px;
-    height: 40px;
-    object-fit: cover;
+    width: auto;
+    height: 100%;
+    object-fit: scale-down;
 }
 .contentsList
 {
