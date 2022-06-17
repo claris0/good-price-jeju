@@ -140,12 +140,9 @@ html, body
 .roadview
 {
     position: relative;
-    right: 5%;
-    transform: translateX(50%);
-    transform: translatey(-19%);
-    
+    right: 0%;
     z-index: 3;
     width: 40%;
-    height: 25%;
+    height: 400%;
     background-color: white;
 }
