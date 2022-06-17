@@ -142,8 +142,6 @@ html, body
     position: absolute;
     right: 1.5%;
     top: 7%;
-    transform: translateX(50%);
-    transform: translatey(-19%);
     z-index: 3;
     width: 30%;
     height: 30%;
